@@ -1,17 +1,17 @@
 {
-  "name": "nome estensione",
+  "name": "Facebook Hide Story Extension",
   "version": "1.0.0",
-  "description": "descriione",
+  "description": "Hiding Facebook's Story container",
   "manifest_version": 3,
   "author": "simone celia",
   "action":{
     "default_popup": "index.html",
-    "default_title": "default title"
+    "default_title": "Facebook Hide Story Extension"
   },
   "content_scripts": [{
     "css": ["style.css"],
     "js": ["main.js"],
-    "matches": ["<all_urls>"]
+    "matches": ["*://*.facebook.com/*"]
   }],
   "permissions": ["tabs"]
 }
