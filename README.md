@@ -1,8 +1,12 @@
 # Facebook Hide Story
 
-Hide facebook story - nasconde storie facebook
+Hide facebook story - Nasconde storie facebook
 
-## Setup
+## Dev Setup
 
 + load ```facebook-hide-story-chrome-extension``` as unpacked
+
+## Production Setup
+
++ drag&drop .crx file to the extensions list
 + enjoy
