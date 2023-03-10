@@ -1,6 +1,6 @@
 {
   "name": "Facebook Hide Story Extension",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hiding Facebook's Story container",
   "manifest_version": 3,
   "author": "simone celia",
