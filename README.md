@@ -8,5 +8,5 @@ Hide facebook story - Nasconde storie facebook
 
 ## Production Setup
 
-+ drag&drop .crx file to the extensions list
++ drag&drop .crx file (or the directory) to the extensions list
 + enjoy
